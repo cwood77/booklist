@@ -1,0 +1,4 @@
+type: diff
+inherit: coreSpec
+cols: title
+rule: default:sell=???

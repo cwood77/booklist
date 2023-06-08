@@ -1,0 +1,216 @@
+---------------------------
+title: 100 Tough Questions for Japanese Folk
+author: 
+notes: 
+sell: ???
+
+---------------------------
+title: Arigcola Matricola
+author: 
+notes: 
+sell: ???
+
+---------------------------
+title: Athenaze: Book II
+author: 
+notes: 
+sell: ???
+
+---------------------------
+title: Big book of Sumo
+author: 
+notes: 
+sell: ???
+
+---------------------------
+title: Caesar's Gallic War
+author: 
+notes: Interlinear
+sell: ???
+
+---------------------------
+title: Catch-22
+author: 
+notes: 
+sell: ???
+
+---------------------------
+title: Chinese in 10 Minutes a Day
+author: 
+notes: 
+sell: ???
+
+---------------------------
+title: Circe (fiction)
+author: Madeline Miller
+notes: 
+sell: ???
+
+---------------------------
+title: Colloquial Hindi
+author: 
+notes: 
+sell: ???
+
+---------------------------
+title: Epics of Sumerian Kings
+author: 
+notes: 
+sell: ???
+
+---------------------------
+title: Essentials of Latin Grammar
+author: 
+notes: 
+sell: Maybe?
+
+---------------------------
+title: Heart of Ice
+author: 
+notes: 
+sell: ???
+
+---------------------------
+title: How to Be Polite In Japanese
+author: 
+notes: 
+sell: ???
+
+---------------------------
+title: Introducing Quantum Theory
+author: 
+notes: 
+sell: ???
+
+---------------------------
+title: Introduction to Japanese Culture
+author: 
+notes: 
+sell: ???
+
+---------------------------
+title: Japanese in Mangaland 2
+author: 
+notes: 
+sell: ???
+
+---------------------------
+title: Japanese in Mangaland Workbook 1
+author: 
+notes: 
+sell: ???
+
+---------------------------
+title: Japanese in Mangaland Workbook 2
+author: 
+notes: 
+sell: ???
+
+---------------------------
+title: KJV-NIV Parallel New Testament
+author: 
+notes: 
+sell: ???
+
+---------------------------
+title: Linux Device Drivers
+author: 
+notes: 
+sell: ???
+
+---------------------------
+title: Linux Kernel Development
+author: 
+notes: 
+sell: ???
+
+---------------------------
+title: Nade Nade (Japanese text)
+author: 
+notes: 
+sell: ???
+
+---------------------------
+title: New Testament Greek Syntax
+author: 
+notes: 
+sell: ???
+
+---------------------------
+title: Nihongo Journal 11
+author: 
+notes: 
+sell: ???
+
+---------------------------
+title: Nihongo Journal 12
+author: 
+notes: 
+sell: ???
+
+---------------------------
+title: Paralleles (French textbook)
+author: 
+notes: 
+sell: ???
+
+---------------------------
+title: Runes
+author: Page
+notes: 
+sell: ???
+
+---------------------------
+title: Scottish Gaelic in Twelve Weeks
+author: 
+notes: 
+sell: ???
+
+---------------------------
+title: Shakespeare MacBeth
+author: 
+notes: 
+sell: ???
+
+---------------------------
+title: Tao Te Ching
+author: 
+notes: 
+sell: ???
+
+---------------------------
+title: The James Holis Collection
+author: 
+notes: 
+sell: ???
+
+---------------------------
+title: The She Novels Collection
+author: H. Rider Haggard
+notes: 
+sell: ???
+
+---------------------------
+title: The Wonderful World of Sazae-San: 1
+author: 
+notes: 
+sell: ???
+
+---------------------------
+title: The World of Robert Jordan's Wheel of Time
+author: 
+notes: 
+sell: ???
+
+---------------------------
+title: Thirty-eight Latin Stories
+author: 
+notes: 
+sell: ???
+
+---------------------------
+title: Vergil's Aeneid
+author: Pharr
+notes: Latin/English parallel
+sell: ???
+

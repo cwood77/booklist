@@ -1,0 +1,2 @@
+key: title
+rule: unique:title
